@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nishitha0403
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning BE 4th year
+- 🌱 I’m currently pursuing BE 4th year
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through linkedin
 
